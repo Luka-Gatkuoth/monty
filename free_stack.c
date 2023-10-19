@@ -15,3 +15,4 @@ free(head);
 head = aux;
 }
 }
+

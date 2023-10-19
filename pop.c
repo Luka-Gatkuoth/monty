@@ -21,3 +21,4 @@ h = *head;
 *head = h->next;
 free(h);
 }
+

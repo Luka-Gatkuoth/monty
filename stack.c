@@ -13,3 +13,4 @@ void f_stack(stack_t **head, unsigned int counter)
 (void)counter;
 bus.lifi = 0;
 }
+

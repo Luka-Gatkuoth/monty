@@ -18,3 +18,4 @@ exit(EXIT_FAILURE);
 }
 printf("%d\n", (*head)->n);
 }
+

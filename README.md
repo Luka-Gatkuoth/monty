@@ -1,7 +1,5 @@
 This is 0x19. C - Stacks, Queues - LIFO, FIFO project.
-/** 
 * Author name: Luka Gatkuoth Nyuot
-*/
 
 The learning objective of this project is:-
  * What do LIFO and FIFO mean
