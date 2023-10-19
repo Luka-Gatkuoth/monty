@@ -40,3 +40,4 @@ addnode(head, n);
 else
 addqueue(head, n);
 }
+
